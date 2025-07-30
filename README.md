@@ -23,24 +23,18 @@ This repository contains my hands-on practice and learning exercises with **NumP
 
 You can install NumPy using pip if not already installed:
 
-```bash
-pip install numpy
-🚀 How to Use
+## 🚀 How to Use
 Clone the repository:
-
-bash
-Copy
-Edit
 git clone https://github.com/shettynaviya/Practice_Numpy.git
 cd Practice_Numpy
 Open any .ipynb or .py file to explore NumPy concepts in detail.
 
 Run the notebooks or scripts using your preferred Python environment (e.g., Jupyter Notebook, VS Code, or any IDE).
 
-📌 Purpose
+## 📌 Purpose
 This repository is purely for educational and self-learning purposes. It serves as a reference for revisiting core NumPy concepts and examples when needed.
 
-📁 Structure
+## 📁 Structure
 The repo may include:
 
 numpy_basics.ipynb: Getting started with arrays and basic operations
@@ -53,5 +47,5 @@ Additional practice files and topic-based exercises
 
 Feel free to fork, clone, or refer to this repo for your own NumPy learning journey.
 
-📬 Contact
+## 📬 Contact
 If you have any suggestions or feedback, feel free to connect with me on GitHub.
